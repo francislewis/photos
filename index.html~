@@ -159,7 +159,7 @@
                         	<!-- End Item Project -->
 
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 photgraphy">
+                        	<li class="item-thumbs span3 design">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
                             	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Office" href="img/work/full/image-02-full.jpg">
                                 	<span class="overlay-img"></span>
